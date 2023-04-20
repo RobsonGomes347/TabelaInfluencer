@@ -1,0 +1,33 @@
+tr:first-child{text-align: left;
+background-color: black;
+color: aliceblue;
+border: n
+}
+td{
+    padding: 10px;
+    text-align: start;
+
+}
+table{ border-collapse: collapse;
+
+
+}
+button{
+    color: black;
+    background-color: gray;
+    height: 40px;
+
+}
+button:hover{ background-color: brown;
+
+}
+.tw{background-color: blue;
+
+}
+.fb{background-color: cyan;
+
+}
+.yt{background-color: crimson;
+
+}
+
